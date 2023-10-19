@@ -29,8 +29,8 @@ test("should return the correct restaurant data", async () => {
             name: "AppleBees",
             location: "Texas",
             cuisine: "FastFood",
-        });
-    );
+        })
+    )
 });
 
 test("shoud return larger restaurant array", async () => {
